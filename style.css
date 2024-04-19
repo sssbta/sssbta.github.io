@@ -1,1 +1,7 @@
-h1{color:firebrick;}
+h1 {
+  color: firebrick;
+}
+
+p {
+  background: aqua;
+}
